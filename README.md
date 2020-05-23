@@ -10,3 +10,5 @@ When using OpenCV’s deep neural network module with Caffe models, you’ll nee
 -> The .caffemodel file which contains the weights for the actual layers
 
 Both files are required to when using models trained using Caffe for deep learning.
+
+THIS IS DETECTION OF FACES NOT RECOGNITION
